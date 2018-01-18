@@ -2,3 +2,9 @@ new test file
 sdfjdlfj
 lsdjfldsf
 
+<<<<<<< HEAD
+
+this is the master branch
+=======
+this is for the branch
+>>>>>>> second
